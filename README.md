@@ -11,7 +11,7 @@ An Excel-based tracker to record income, expenses, and savings, with visual repo
 ## 📁 Files
 - `Daily Personal Finance Tracker.xlsx`: Main tracking sheet
 - `Presentation.pdf`: Project presentation
-- `Dashboard.png`: Sample screenshot
+- `Project[number].png`: Sample screenshots
 
 ## 🛠 Requirements
 - Microsoft Excel or Google Sheets
